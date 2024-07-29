@@ -20,19 +20,19 @@ This is a web-based scientific calculator built using Flask, HTML, CSS, and Java
 
 bash
 Copy code
-git clone https://github.com/your-username/scientific-calculator.git
+```git clone https://github.com/your-username/scientific-calculator.git```
 
 2. Navigate to the project directory:
 
 bash
 Copy code
-cd scientific-calculator
+```cd scientific-calculator```
 
 3. Create a virtual environment:
 
 bash
 Copy code
-python -m venv venv
+```python -m venv venv```
 
 4. Activate the virtual environment:
 
@@ -40,26 +40,26 @@ python -m venv venv
 
 bash
 Copy code
-venv\Scripts\activate
+```venv\Scripts\activate```
 
 * On macOS/Linux:
 
 bash
 Copy code
-source venv/bin/activate
+```source venv/bin/activate```
 
 5. Install the required dependencies:
 
 bash
 Copy code
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 6. Run the Flask application:
 
 bash
 Copy code
-python app.py
-The application will be available at http://127.0.0.1:5000/.
+```python app.py```
+The application will be available at ```http://127.0.0.1:5000/.```
 
 ### Usage
 1. Open your web browser and go to http://127.0.0.1:5000/.
